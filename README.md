@@ -26,7 +26,7 @@ This project demonstrates:
 
 ---
 
-## ⚙️ How the Program Works
+## How the Program Works
 
 1. The program starts with **`MainApp`**, which displays the introduction and difficulty options.
 2. The user chooses a difficulty level:
